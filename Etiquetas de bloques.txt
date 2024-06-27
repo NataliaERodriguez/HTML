@@ -1,0 +1,7 @@
+Etiquetas de bloques
+
+Son elementos que se utilizan para crear secciones de contenido en una página web. Estas etiquetas tienen un comportamiento por defecto que hace que ocupen todo el ancho disponible de su contenedor principal y se colocan en una línea nueva, lo que crea un efecto de separación vertical en el diseño de la página.
+
+Tipos:
+<header> encabezado. Permite poder poner dentro de estas etiquetas el contenido del encabezado de la página.
+Primeramente, visualmente no se modifica en nada pero sí nos va a ayudar más adelante cuando debamos agregar estilos. Además, hace que el código esté estructurado, que sea encontrado más adelante por los motores de búsqueda, etc.
